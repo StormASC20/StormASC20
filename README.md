@@ -1,13 +1,12 @@
-## Hi there 👋
 
-<!--
-**StormASC20/StormASC20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# **Storm Rivera**
 
-Here are some ideas to get you started:
+3rd Year Student at RIT; Game Design and Development major with a minor in Japanese
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+## About Me
+
+- 🔭 I’m currently working on developing a video game
+- 🌱 I’m currently learning more Python
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
