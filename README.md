@@ -26,7 +26,7 @@
 > - ReactJS
 > - TypeScript
 
-> ### Object-Oriented Programming
+> ### Object Manipulation Team
 >
 > - C#
 > - C++
