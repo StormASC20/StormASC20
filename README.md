@@ -1,6 +1,7 @@
 
 # **Storm Rivera**
 
+<img src="/assets/stormCropped.png" alt="Storm Symbol" width="200" height="auto">
 
 
 ## About Me
