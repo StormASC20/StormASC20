@@ -19,7 +19,7 @@
   
 ## 📫 Tools n' Languages:
 
-> ### Web Development Team
+> ### Web Development Team: Structure, Presentation, Behavior
 >
 > - HTML
 > - CSS
